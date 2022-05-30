@@ -3,7 +3,7 @@
 LFS=/mnt/scratch
 
 echo "\$LFS is set to $LFS..."
-echo "If this is not correct, abort NOW."
+echo "If this is not correct, abort NOW. (ctrl+c)"
 echo
 echo "Continuing in 5 seconds..."
 sleep 5
