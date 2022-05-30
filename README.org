@@ -1,0 +1,2 @@
+#+title: Vox's Linux From Scratch
+#+author: Vox
