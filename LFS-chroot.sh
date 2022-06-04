@@ -1,6 +1,6 @@
 #!/usr/bin/env dash
 
-LFS=/mnt/scratch
+read -p 'Please enter the LFS root dir (Ex: /mnt/lfs): ' LFS
 
 echo "\$LFS is set to $LFS..."
 echo "If this is not correct, abort NOW. (ctrl+c)"
